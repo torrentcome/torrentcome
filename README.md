@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Bbox Modules (/app && /priv-app)
+- 🤔 Build & Fix & Optimize
+- ✨ What is magik ? Rx | Dagger | AOSP | Manjaro | Docker
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=torrentcome&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
