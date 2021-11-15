@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bbox Modules (/app && /priv-app)
+- 🔭 Currently working on Bbox Modules (/app && /priv-app)
 - 👯 Clean && Build && Fix && Optimize
-- ✨ What is magik ? Rx && Dagger | AOSP | Manjaro | Vim | Docker | Kotlin && Go
-- 📫 The bible AOSP Java Code Style for Contributors 
+- ✨ Coroutine | Rx | Dagger | BSP | Manjaro | Vim | Docker | Kotlin | Go
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=torrentcome&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
