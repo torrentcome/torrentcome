@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Currently working on Bbox Modules (/app && /priv-app)
+- 🔭 Working on Bbox modules /app /priv-app /framework
 - 👯 Clean && Build && Fix && Optimize
-- ✨ Coroutine | Rx | Dagger | BSP | Manjaro | Vim | Docker | Kotlin | Go
+- 😄 Coroutine | Rx | Dagger | BSP | Manjaro | Vim | Docker | Kotlin | Go
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=torrentcome&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
