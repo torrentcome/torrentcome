@@ -4,8 +4,7 @@
 - 👯 Clean && Build && Fix && Optimize
 - 😄 Coroutine | Rx | Dagger | BSP | Manjaro | Vim | Docker | Kotlin | Go
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=torrentcome&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Image Caption](https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg)
 <!--
 **torrentcome/torrentcome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
